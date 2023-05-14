@@ -1,5 +1,3 @@
-# MCC_Visión_Artificial - 2023
-
 ### Información general
 ***
 **Proyecto final**: Un enfoque de aprendizaje automático para el reconocimiento de cortes conformes y no conformes en imágenes. <br>
