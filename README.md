@@ -23,16 +23,12 @@ Give instructions on how to collaborate with your project.
 > Proyecto_final_Machine_Learning_Tradicional.py : Procesamiento de imagen, extracción de caracteristicas, entrenamiento y predicción con ML tradicional
 > Proyecto_final_Redes_neuronales.ipybn : Modelo de clasificación con redes Neuronales Convolucionales pre-entrenadas (RESNET50)
 > Dataset
-## FAQs
+## Detalle datos adjunto
 ***
-A list of frequently asked questions
-1. **This is a question in bold**
-Answer of the first question with _italic words_. 
-2. __Second question in bold__ 
-To answer this question we use an unordered list:
-* First point
-* Second Point
-* Third point
+* Proyecto_final_pdf: Desarrollo Paper proyecto final. 
+* Proyecto_final_Machine_Learning_Tradicional.py : Procesamiento de imagen, extracción de caracteristicas, entrenamiento y predicción con ML tradicional
+* Proyecto_final_Redes_neuronales.ipybn : Modelo de clasificación con redes Neuronales Convolucionales pre-entrenadas (RESNET50)
+* Dataset
 3. **Third question in bold**
 Answer of the third question with *italic words*.
 4. **Fourth question in bold**
