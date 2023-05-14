@@ -7,8 +7,8 @@
 5. [FAQs](#faqs)
 ### General Info
 ***
-Proyecto final: Un enfoque de aprendizaje automático para el reconocimiento de cortes conformes y no conformes en imágenes. <br>
-Referencia: Jairo Hurtado, Francisco Reales, “A machine learning approach for the recognition of melanoma skin cancer on macroscopic images”. 
+**Proyecto final**: Un enfoque de aprendizaje automático para el reconocimiento de cortes conformes y no conformes en imágenes. <br>
+**Referencia**: Jairo Hurtado, Francisco Reales, “A machine learning approach for the recognition of melanoma skin cancer on macroscopic images”. 
 ### Screenshot
 ![Image text](https://www.united-internet.de/fileadmin/user_upload/Brands/Downloads/Logo_IONOS_by.jpg)
 ## Technologies
