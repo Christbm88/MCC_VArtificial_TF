@@ -11,28 +11,18 @@
 **Referencia**: Jairo Hurtado, Francisco Reales, “A machine learning approach for the recognition of melanoma skin cancer on macroscopic images”. 
 ### Screenshot
 [Image text](https://ibb.co/Jc8cq4F)
-## Technologies
+## Integrantes
 ***
-A list of technologies used within the project:
-* [Technologie name](https://example.com): Version 12.3 
-* [Technologie name](https://example.com): Version 2.34
-* [Library name](https://example.com): Version 1234
-## Installation
-***
-A little intro about the installation. 
-```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
-Side information: To use the application in a special environment use ```lorem ipsum``` to start
-## Collaboration
+*  Barriga Marcapura, Christian Néstor 
+*  Ccapatinta Huamani, Weimar
+
+## Detalle datos adjunto
 ***
 Give instructions on how to collaborate with your project.
-> Maybe you want to write a quote in this part. 
-> It should go over several rows?
-> This is how you do it.
+> Proyecto_final_pdf: Desarrollo Paper proyecto final. 
+> Proyecto_final_Machine_Learning_Tradicional.py : Procesamiento de imagen, extracción de caracteristicas, entrenamiento y predicción con ML tradicional
+> Proyecto_final_Redes_neuronales.ipybn : Modelo de clasificación con redes Neuronales Convolucionales pre-entrenadas (RESNET50)
+> Dataset
 ## FAQs
 ***
 A list of frequently asked questions
